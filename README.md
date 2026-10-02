@@ -47,6 +47,11 @@ Prompt-Engineering/
 
 The Streamlit application accepts a user query, adds retrieved information to the prompt, and sends it to Gemini to generate a response.
 
+## ▶️ Run the Application
+python -m streamlit run gemini_prompt.py
+## OR
+streamlit run gemini_prompt.py
+
 **Workflow:**
 
 ```text
